@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "サカナ",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-06T10:47:49.774067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_サカナ_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_サカナ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "kous",
+      "has_synced": false,
+      "path": "select/03_サカナ_kous.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sakana [サカナ]",
+      "artist": "Ringo Sheena",
+      "has_synced": true,
+      "path": "select/04_Sakana_[サカナ]_Ringo_Sheena.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "天野月子",
+      "has_synced": false,
+      "path": "select/05_サカナ_天野月子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "Shiina Ringo",
+      "has_synced": true,
+      "path": "select/06_サカナ_Shiina_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/07_サカナ_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サカナ",
+      "artist": "椎名林檎 (Shiina Ringo)",
+      "has_synced": true,
+      "path": "select/08_サカナ_椎名林檎_(Shiina_Ringo).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サカナ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_サカナ_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "サカナ",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_サカナ_椎名_林檎.txt"
+    }
+  ]
+}
